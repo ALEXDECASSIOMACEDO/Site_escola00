@@ -3,7 +3,7 @@ background-color: blue;
 color: white;
 }
 .cabecalho-lista{
-
+display: flex;
 
 }
 .logo1{
