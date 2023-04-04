@@ -1,7 +1,7 @@
-.cabecalho{
+.cabecalho {
 background-color: blue;
 color: white;
-display: flex;
+display:flex;
 }
 .cabecalho-lista{
 
