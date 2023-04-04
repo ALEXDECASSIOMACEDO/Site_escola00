@@ -1,9 +1,10 @@
 .cabecalho{
 background-color: blue;
 color: white;
+display: flex;
 }
 .cabecalho-lista{
-display: flex;
+
 
 }
 .logo1{
